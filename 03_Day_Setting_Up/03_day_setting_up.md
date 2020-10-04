@@ -15,7 +15,7 @@
 </div>
 </div>
 
-[<< Day 2](../02_Day_Introduction_to_React/02_introduction_to_react.md) | [Day 4 >>]()
+[<< Day 2](../02_Day_Introduction_to_React/02_introduction_to_react.md) | [Day 4 >>](./04_Day_Component/04_components.m)
 
 ![30 Days of React banner](../images/30_days_of_react_banner_day_3.jpg)
 
@@ -746,4 +746,4 @@ The boilerplate code can be found [here](../03/../03_Day_Setting_Up/30-days-of-r
 ![News Letter](../images/news_letter_design.png)
 
 🎉 CONGRATULATIONS ! 🎉
-[<< Day 2](../02_Day_Introduction_to_React/02_introduction_to_react.md) | [Day 4 >>]()
+[<< Day 2](../02_Day_Introduction_to_React/02_introduction_to_react.md) | [Day 4 >>](../04_Day_Components/04_components.md)
